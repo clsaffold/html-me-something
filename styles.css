@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ul {
     list-style-type: none;
     margin: 0;
@@ -75,3 +76,82 @@ h3 {
     float: none;
     padding: 10px 25px; 
   }
+=======
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #97999b;
+  }
+  
+li {
+    float: left;
+  }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+  }
+
+body {
+    background-color: #f7f7f7;
+  }
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #ffffff;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #003399;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #6cace4;
+	}
+
+p {
+    color: rgb(80, 80, 80);
+    margin: 10px 25px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+  }
+
+p.b {
+    font-style: italic;
+    text-align: justify;
+  }
+
+p.c {
+    margin: 10px 0px;
+    text-align: justify;
+  }
+
+#current {
+      font-weight: bold;
+      color: #66cc00
+  }
+
+h1, h2 {
+    color: #003399;
+    font: normal 1.6em helvetica, sans-serif;
+  }
+
+h3 {
+    color: #003399;
+    margin: 10px 25px;
+    font: italic normal 1.4em helvetica, sans-serif;
+  }
+
+  img {
+    float: none;
+    padding: 10px 25px; 
+  }
+>>>>>>> 66094213ac3cbedda0613bf695b5b85f0cda7d9f
