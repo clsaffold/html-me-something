@@ -27,16 +27,21 @@ ul {
   }
 
   p {
-    color: #97999b;
-    margin: 50px 25px;
+    color: rgb(80, 80, 80);
+    margin: 10px 25px;
     padding: 5px;
   }
 
-  h1, h2, h3 {
+  h1, h2 {
     color: #003399;
   }
 
+  h3 {
+    color: #003399;
+    margin: 10px 25px;
+  }
+
   img {
-      float: left;
-      padding: 10px 10px 10px 10px; 
+      float: none;
+      padding: 10px 25px; 
   }
