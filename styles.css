@@ -23,13 +23,20 @@ ul {
   }
 
   body {
-      background-color: #f7f7f7
+      background-color: #f7f7f7;
   }
 
   p {
     color: rgb(80, 80, 80);
     margin: 10px 25px;
     padding: 5px;
+  }
+
+  p.b {
+    color: rgb(80, 80, 80);
+    margin: 10px 25px;
+    padding: 5px;
+    font-style: italic;
   }
 
   h1, h2 {
@@ -42,6 +49,6 @@ ul {
   }
 
   img {
-      float: none;
-      padding: 10px 25px; 
+    float: none;
+    padding: 10px 25px; 
   }
